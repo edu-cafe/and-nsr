@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndP\\AndM\\ASProjects\\RemoteServerClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\aidlclient.xml",
+        "source": "C:\\AndP\\AndM\\ASProjects\\RemoteServerClient\\app\\src\\main\\res\\menu\\aidlclient.xml"
+    },
+    {
+        "merged": "C:\\AndP\\AndO\\ASProjects\\03.AIDLService\\RemoteServerClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\aidlclient.xml",
+        "source": "C:\\AndP\\AndO\\ASProjects\\03.AIDLService\\RemoteServerClient\\app\\src\\main\\res\\menu\\aidlclient.xml"
+    }
+]
